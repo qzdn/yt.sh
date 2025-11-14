@@ -1,12 +1,12 @@
 # yt.sh 
 
-Watch YouTube with mpv and newsboat (subsciptions).
+Watch YouTube w/o browser - with mpv, yt-dlp and newsboat (for subsciptions).
 
 ## Installation
 
 ```bash
-# Install mpv and yt-dlp with your package manager
-$ sudo pacman -S mpv yt-dlp
+# Install mpv, newsboat and yt-dlp with your package manager
+$ sudo pacman -S mpv newsboat yt-dlp
 
 # Clone repo
 $ git clone https://github.com/qzdn/yt.sh.git
